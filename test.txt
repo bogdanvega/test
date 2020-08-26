@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 this is all KINDA OK
-=======
-this is also right
->>>>>>> newfeature
 
-new testing here
+new testing here 
+
+hey you
